@@ -36,6 +36,7 @@ body {
 
 }
 
+
 .publication-banner video {
   position: relative;
   left: auto;
@@ -163,3 +164,7 @@ mydiv {
   padding: 50px;
   margin: 20px; */
 }
+
+.title1{color: #003464; text-shadow: 1px 1px 3px #c0c0c0;} 
+.title2{color: #FFCA2F; text-shadow: 1px 1px 3px #c0c0c0;}
+.year{color: #232323; font-size:0.67em; font-weight: lighter;}
