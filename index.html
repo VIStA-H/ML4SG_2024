@@ -54,6 +54,16 @@
           margin: 20px; /* Margin outside the box */
           text-align: center; /* Center the text */
       }
+      .row::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+      .column {
+        float: left;
+        width: 24%;
+        padding: 3px;
+      }
       
     </style>
     
